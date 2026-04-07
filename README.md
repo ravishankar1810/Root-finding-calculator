@@ -2,6 +2,24 @@
 
 A full-stack, interactive web application designed to solve nonlinear equations using classic numerical methods. This tool visualizes mathematical convergence in real-time, providing both graphical and tabular data to help understand how different algorithms approach the root of an equation.
 
+<br/>
+
+<p align="center">
+  <img src="assets/compare-dashboard.png" alt="Compare All Dashboard" width="800"/>
+  <br/><br/>
+  <img src="assets/method-view.png" alt="Bisection Method View" width="800"/>
+</p>
+
+<br/>
+
+## ✨ Features
+
+* **Interactive Visualizations:** Native Plotly.js integration for responsive, interactive graphs displaying the function curve and the calculated root.
+* **Multiple Algorithms Supported:** ... (the rest of the README continues here)
+# ◈ Root Finding Calculator
+
+A full-stack, interactive web application designed to solve nonlinear equations using classic numerical methods. This tool visualizes mathematical convergence in real-time, providing both graphical and tabular data to help understand how different algorithms approach the root of an equation.
+
 ## ✨ Features
 
 * **Interactive Visualizations:** Native Plotly.js integration for responsive, interactive graphs displaying the function curve and the calculated root.
